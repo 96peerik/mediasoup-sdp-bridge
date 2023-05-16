@@ -71,7 +71,7 @@
     "typescript": "~4.4.0"
   },
   "peerDependencies": {
-    "mediasoup": "^3.0.0",
+    "@show-runner/mediasoup": "^3.11.4-1",
     "mediasoup-client": "^3.0.0"
   }
 }
